@@ -2,15 +2,15 @@
 """
 Created on Tue Feb  5 21:22:04 2019
 
-@author: User
+@author: hareesh
 """
 
 import tweepy
 import json
-access_token = "157565505-iExQdIo4tsn3qqDpJNiwXA09qEE5gaEa5nHFh2eE"
-access_token_secret = "eszpAoirdubjbpymVQcE3sP3S33i4suin7TsWg1nCTcFQ"
-consumer_key = "WsTKDIprJzw89JMLLxWfJqVzL"
-consumer_secret = "kvSdrqn2Urb3guXdmQiyBqjgA73LQzj99IXGBxC7B3T85CRac5"
+access_token = "....."
+access_token_secret = "....."
+consumer_key = "......"
+consumer_secret = "......"
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
